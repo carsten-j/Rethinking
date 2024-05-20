@@ -1,0 +1,13 @@
+numpy
+pandas
+preliz[full,notebook]
+arviz
+matplotlib
+pymc
+ipykernel
+ipympl
+pymc
+xarray
+bambi
+watermark
+seaborn
