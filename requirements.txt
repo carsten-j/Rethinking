@@ -1,3 +1,4 @@
+git+https://github.com/carsten-j/pymc-experimental.git@laplace
 numpy
 pandas
 preliz[full,notebook]
@@ -5,10 +6,12 @@ arviz
 matplotlib
 pymc
 ipykernel
+ipywidgets
 ipympl
 pymc
 xarray
 bambi
 watermark
 seaborn
-quad5==0.1.8
+daft
+networkx
